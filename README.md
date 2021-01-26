@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi!
+
+It's unlikely that you'll find anything interesting here.
+
+HTH, HAND.
 
 <!--
 **skrytebane/skrytebane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
