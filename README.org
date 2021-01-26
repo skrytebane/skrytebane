@@ -1,8 +1,7 @@
-* Hoi!
+*** Hoi!
 
-It's unlikely that you'll find anything interesting here.
-
-There are mostly just:
+It's highly unlikely that you'll find anything interesting
+here. Repositories are mostly:
 
 - Small experiments
 - Projects that I've forked to submit tiny pull requests
