@@ -1,12 +1,3 @@
-*** Hoi!
+* Hoi!
 
-It's highly unlikely that you'll find anything interesting
-here. Repositories are mostly:
-
-- Small experiments
-- Projects that I've forked to submit tiny pull requests
-- Code for workshops I've participated in
-
-#+BEGIN_COMMENT
-This works with [[https://orgmode.org/][Org mode for Emacs]], even!
-#+END_COMMENT
+It's highly unlikely that you'll find anything interesting here.
